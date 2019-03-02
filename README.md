@@ -66,3 +66,8 @@ nvram erase && reboot
 ```
 5) Your router should restart. Go to `Advanced` tab, `Administration` > `Firmware Upgrade` and upload your favorite custom firware for the R7000
 
+## Links
+* https://www.myopenrouter.com/forum/netgear-r6900-dd-wrt-firmware-mod
+* https://forum.dd-wrt.com/phpBB2/viewtopic.php?t=301328&sid=ccf1fc8b96fb0d0e09a753319fad8420
+* https://oldwiki.archive.openwrt.org/toh/netgear/telnet.console
+* https://community.netgear.com/t5/Nighthawk-WiFi-Routers/R7000-vs-R6900-CostCo-Differences-and-availability-of-3rd-party/td-p/1051243
